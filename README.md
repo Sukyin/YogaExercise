@@ -1,6 +1,9 @@
 # YogaExercise
-A Flutter Project.. 
-have completed the UI pages 
+A Flutter Project for Yoga
+
+
+
+
 Star⭐ the repo if you like
 
 
