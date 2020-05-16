@@ -53,6 +53,17 @@ flutter:
     - images/tabbar/yoga_25x25_@2x.png
     - images/background/navbg1_621x450_@2x.png
     - images/icons/uncheck-diet_64x64_@2x.png
+    - images/icons/rating_64x64_@2x.png
+    - images/icons/feedback_64x64_@2x.png
+    - images/icons/share_64x64_@2x.png
+    - images/icons/privacy_64x64_@2x.png
+    - images/icons/playbutton_16x16_@2x.png
+    - images/icons/timer_12x12_@2x.png
+    - images/icons/viewedexercise_16x16_@2x.png
+    - images/icons/check-diet_64x64_@2x.png
+
+    - images/yoga.jpg
+    - images/workout.jpg
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
